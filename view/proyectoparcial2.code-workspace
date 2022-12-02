@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../api_restful"
+		},
+		{
+			"path": "../../../mensajes"
+		}
+	],
+	"settings": {}
+}
